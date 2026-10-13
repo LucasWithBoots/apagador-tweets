@@ -41,7 +41,3 @@ npm run dev
 ```
 
 O site é feito em React com Vite. A página fica em [`src/App.jsx`](src/App.jsx), e o script gerado sai de [`src/gerarScript.js`](src/gerarScript.js).
-
-## Deploy
-
-Cada push na `main` publica o site no GitHub Pages pelo workflow [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml).
